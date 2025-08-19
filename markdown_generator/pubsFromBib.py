@@ -40,6 +40,13 @@ publist = {
         "venue-pretext" : "",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"}
+    } ,
+    "misc":{
+        "file": "pubs.bib",
+        "venuekey" : "journal",
+        "venue-pretext" : "",
+        "collection" : {"name":"publications",
+                        "permalink":"/publication/"}
     } 
 }
 
