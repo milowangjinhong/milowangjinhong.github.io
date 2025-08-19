@@ -17,20 +17,22 @@ Education
 Work Experience
 ======
 * 2025-Now: Research Associate
-  * Imperial College London
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * The Sustainable Energy Technology and Turbomachinery Lab (SETTL), Imperial College London
+  * Duties included: Study the diffuser instability of centrifugal compressors.
 
-* Teaching Assistant
-  * Imperial College London
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-2025: Teaching Assistant
+  * Department of Mechanical Engineering, Imperial College London
+  * Duties included: Assist module leaders in academic tutorials, lab sessions, report and exam markings. 
+  * Modules: ME1 & ME2 Computing, ME1 & ME2 Design and Manufacture, ME1 Thermodynamics, ME2 Heat Transfer.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2020-2021: Research Assistant
+  * The Biomechanics Group, Imperial College London
+  * Duties included: Introducing AI-based methods in medical image processing.
+
+* 2019-2021: Research Assistant
+  * The Robotic Manipulation: Engineering, Design, and Science Laboratory (REDS Lab), Imperial College London
+  * Duties included: Designing novel mechanisms for dexterous robotic manipulators.
+
 Skills
 ======
 * Programming: 
