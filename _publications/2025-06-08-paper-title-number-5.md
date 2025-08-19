@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "An Underactuated Gripper based on Car Differentials for Self-Adaptive Grasping with Passive Disturbance Rejection"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+# permalink: /publication/2024-02-17-paper-title-number-4
+# excerpt: ''
+date: May 2021
+venue: '2021 IEEE International Conference on Robotics and Automation (ICRA)'
+paperurl: 'https://ieeexplore.ieee.org/document/9561725'
+citation: 'Q. Lu*, J. Wang*, Z. Zhang, G. Chen, H. Wang, and N. Rojas, “An Underactuated Gripper based on Car Differentials for Self-Adaptive Grasping with Passive Disturbance Rejection”, 2021 IEEE International Conference on Robotics and Automation (ICRA), May 2021, no. Icra, pp. 2605–2611. doi: 10.1109/ICRA48506.2021.9561725. [*Equal Contribution]'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
