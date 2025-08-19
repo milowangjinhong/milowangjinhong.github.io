@@ -13,7 +13,7 @@ title                    : "Jinhong Wang, PhD"
 title_separator          : "-"
 name                     : &name "Jinhong Wang"
 description              : &description "Research Associate at Imperial College London"
-url                      : https://milowangjinhong.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://milowangjinhong.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "milowangjinhong/milowangjinhong.github.io"
 
@@ -26,7 +26,7 @@ author:
   name             : "Jinhong Wang"
   pronouns         : # example: "she/her"  
   bio              : "Research Associate"
-  location         : "CAGB 609, City and Guilds Building, \nSouth Kensington Campus, \nLondon SW7 2AZ, \nUnited Kingdom"
+  location         : "United Kingdom"
   employer         : "Imperial College London"
   uri              : "https://profiles.imperial.ac.uk/jinhong.wang17"
   email            : "jinhong.wang17@imperial.ac.uk" 
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/jinhong-w-790342128"
+  linkedin         : "jinhong-w-790342128"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
