@@ -3,6 +3,7 @@ title: "Non-Ideal Compressible Fluid Formula Handbook"
 collection: publications
 category: misc
 permalink: /publication/2025-08-01-Non-Ideal-Compressible-Fluid-Formula-Handbook
+excerpt: ''
 date: 2025-08-01
 venue: 'Zenodo'
 paperurl: 'https://doi.org/10.5281/zenodo.16740413'

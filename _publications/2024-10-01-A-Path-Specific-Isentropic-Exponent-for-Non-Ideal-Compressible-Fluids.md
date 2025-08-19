@@ -3,6 +3,7 @@ title: "A Path-Specific Isentropic Exponent for Non-Ideal Compressible Fluids"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-10-01-A-Path-Specific-Isentropic-Exponent-for-Non-Ideal-Compressible-Fluids
+excerpt: ''
 date: 2024-10-01
 venue: 'Physics of Fluids'
 paperurl: 'https://doi.org/10.1063/5.0229842'

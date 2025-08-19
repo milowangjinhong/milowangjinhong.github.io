@@ -3,6 +3,7 @@ title: "Supercritical Carbon Dioxide Mixing Loss Characteristics Near the Critic
 collection: publications
 category: conferences
 permalink: /publication/2024-06-01-Supercritical-Carbon-Dioxide-Mixing-Loss-Characteristics-Near-the-Critical-Point
+excerpt: ''
 date: 2024-06-01
 venue: 'In the proceedings of Volume 11: Supercritical CO2'
 paperurl: 'https://doi.org/10.1115/GT2024-122056'

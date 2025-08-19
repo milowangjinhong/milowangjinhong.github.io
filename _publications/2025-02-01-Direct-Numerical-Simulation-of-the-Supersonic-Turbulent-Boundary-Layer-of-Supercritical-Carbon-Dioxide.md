@@ -3,6 +3,7 @@ title: "Direct Numerical Simulation of the Supersonic Turbulent Boundary Layer o
 collection: publications
 category: manuscripts
 permalink: /publication/2025-02-01-Direct-Numerical-Simulation-of-the-Supersonic-Turbulent-Boundary-Layer-of-Supercritical-Carbon-Dioxide
+excerpt: ''
 date: 2025-02-01
 venue: 'Physics of Fluids'
 paperurl: 'https://doi.org/10.1063/5.0253643'

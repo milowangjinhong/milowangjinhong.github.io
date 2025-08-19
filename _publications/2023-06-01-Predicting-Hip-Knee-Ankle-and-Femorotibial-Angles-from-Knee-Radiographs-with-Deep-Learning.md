@@ -3,6 +3,7 @@ title: "Predicting Hip-Knee-Ankle and Femorotibial Angles from Knee Radiographs 
 collection: publications
 category: manuscripts
 permalink: /publication/2023-06-01-Predicting-Hip-Knee-Ankle-and-Femorotibial-Angles-from-Knee-Radiographs-with-Deep-Learning
+excerpt: ''
 date: 2023-06-01
 venue: 'Knee'
 paperurl: 'https://doi.org/10.1016/j.knee.2023.03.010'

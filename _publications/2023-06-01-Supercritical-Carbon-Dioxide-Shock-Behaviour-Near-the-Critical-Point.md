@@ -3,6 +3,7 @@ title: "Supercritical Carbon Dioxide Shock Behaviour Near the Critical Point"
 collection: publications
 category: conferences
 permalink: /publication/2023-06-01-Supercritical-Carbon-Dioxide-Shock-Behaviour-Near-the-Critical-Point
+excerpt: ''
 date: 2023-06-01
 venue: 'In the proceedings of Volume 12: Supercritical CO2'
 paperurl: 'https://doi.org/10.1115/GT2023-100956'

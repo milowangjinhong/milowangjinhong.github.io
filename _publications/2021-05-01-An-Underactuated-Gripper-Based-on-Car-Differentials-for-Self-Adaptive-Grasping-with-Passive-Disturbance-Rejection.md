@@ -3,6 +3,7 @@ title: "An Underactuated Gripper Based on Car Differentials for Self-Adaptive Gr
 collection: publications
 category: conferences
 permalink: /publication/2021-05-01-An-Underactuated-Gripper-Based-on-Car-Differentials-for-Self-Adaptive-Grasping-with-Passive-Disturbance-Rejection
+excerpt: ''
 date: 2021-05-01
 venue: 'In the proceedings of 2021 IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: 'https://doi.org/10.1109/ICRA48506.2021.9561725'

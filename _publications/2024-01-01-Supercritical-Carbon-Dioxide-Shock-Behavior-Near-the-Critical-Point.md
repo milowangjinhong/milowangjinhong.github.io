@@ -3,6 +3,7 @@ title: "Supercritical Carbon Dioxide Shock Behavior Near the Critical Point"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-01-Supercritical-Carbon-Dioxide-Shock-Behavior-Near-the-Critical-Point
+excerpt: ''
 date: 2024-01-01
 venue: 'Journal of Engineering for Gas Turbines and Power'
 paperurl: 'https://doi.org/10.1115/1.4063384'

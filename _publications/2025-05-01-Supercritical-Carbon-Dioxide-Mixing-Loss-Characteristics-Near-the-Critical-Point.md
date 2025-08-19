@@ -3,6 +3,7 @@ title: "Supercritical Carbon Dioxide Mixing Loss Characteristics Near the Critic
 collection: publications
 category: manuscripts
 permalink: /publication/2025-05-01-Supercritical-Carbon-Dioxide-Mixing-Loss-Characteristics-Near-the-Critical-Point
+excerpt: ''
 date: 2025-05-01
 venue: 'Journal of Engineering for Gas Turbines and Power'
 paperurl: 'https://doi.org/10.1115/1.4066603'
