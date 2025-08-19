@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jinhong Wang"
+title                    : "Jinhong Wang, PhD"
 title_separator          : "-"
 name                     : &name "Jinhong Wang"
 description              : &description "Research Associate at Imperial College London"
@@ -22,13 +22,13 @@ repository               : "milowangjinhong/milowangjinhong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "./images/professional_square.jpg"
   name             : "Jinhong Wang"
   pronouns         : # example: "she/her"  
   bio              : "Research Associate"
-  location         : "CAGB 609, City and Guilds Building, South Kensington Campus, United Kingdom"
+  location         : "CAGB 609, City and Guilds Building, \nSouth Kensington Campus, \nLondon SW7 2AZ, \nUnited Kingdom"
   employer         : "Imperial College London"
-  uri              : # URL
+  uri              : "https://profiles.imperial.ac.uk/jinhong.wang17"
   email            : "jinhong.wang17@imperial.ac.uk" 
 
   # Academic websites
