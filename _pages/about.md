@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome to my page. I am **Jinhong Wang**, a Research Associate at **Imperial College London** in the **Sustainable Energy Technology and Turbomachinery Laboratory (SETTL)**. My research centres on **Non-Ideal Compressible Fluid Dynamics (NICFD)** and **Computational Fluid Dynamics (CFD)**, with a particular focus on characterising flow losses near the critical point of supercritical carbon dioxide and their implications for turbomachinery performance. 
+Hello and welcome to my page. I am **Jinhong Wang (汪锦弘)**, a Research Associate at **Imperial College London** in the **Sustainable Energy Technology and Turbomachinery Laboratory (SETTL)**. My research centres on **Non-Ideal Compressible Fluid Dynamics (NICFD)** and **Computational Fluid Dynamics (CFD)**, with a particular focus on characterising flow losses near the critical point of supercritical carbon dioxide and their implications for turbomachinery performance. 
 
 I obtained my **PhD in Mechanical Engineering** at Imperial College London in 2025, with a thesis entitled: [*“Supercritical Carbon Dioxide’s Non-ideal Fluid Effects on Turbomachinery Performance Near the Critical Point.”*](https://doi.org/10.25560/119594).
 
